@@ -1,0 +1,53 @@
+p{color: #334257;}
+small{color: #334257;}
+h1{
+  color: #EEEEEE;
+  background-color: #334257;
+  border: 1px solid #334257;
+  padding: 7px;
+}
+
+body{background-color: #EEEEEE; width: 900px;}
+
+div{
+  background: #FFFFFF;
+  width: 880px;
+  border: 1px solid #cccccc;
+  padding: 5px;
+  margin: 12px;
+  border-radius: 10px;
+}
+
+
+th{padding: 5px;}
+td{padding: 5px;}
+
+/* h4{margin: -4px;} */
+
+h2 {
+  border-left: 5px dotted #000;
+  background: #BACCE6;
+  padding: 3px;
+}
+
+h4{
+position: relative;
+padding-left:1em;
+}
+h4::before{
+content: "★";
+color: #334257;
+font-size:1em;
+position: absolute;
+left: 0;
+top: 0;
+}
+
+
+
+.box {
+  width: 770px;
+  height: 250px;
+  border: 1px solid #cccccc;
+  overflow-y: scroll; /* 縦方向にスクロール可能にする */
+}
