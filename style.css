@@ -11,10 +11,10 @@ body{background-color: #EEEEEE; width: 800px; margin: auto;}
 
 div{
   background: #FFFFFF;
-  width: 780px;
+  width: 800px;
   border: 1px solid #cccccc;
-  padding: 5px;
-  margin: 12px;
+  padding: 7px;
+  /*margin: 12px;*/
   border-radius: 10px;
 }
 
