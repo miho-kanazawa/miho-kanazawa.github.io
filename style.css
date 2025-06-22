@@ -11,9 +11,9 @@ body{background-color: #EEEEEE; width: 800px; margin: auto;}
 
 div{
   background: #FFFFFF;
-  width: 880px;
+  width: 780px;
   border: 1px solid #cccccc;
-  /* padding: 5px; */
+  padding: 5px;
   margin: 12px;
   border-radius: 10px;
 }
