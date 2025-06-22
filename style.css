@@ -7,14 +7,14 @@ h1{
   padding: 7px;
 }
 
-body{background-color: #EEEEEE; width: 800px; margin: auto;}
+body{background-color: #EEEEEE; width: 780px; margin: auto;}
 
 div{
   background: #FFFFFF;
-  width: 800px;
+  width: 760px;
   border: 1px solid #cccccc;
   padding: 7px;
-  /*margin: 12px;*/
+  margin: 12px;
   border-radius: 10px;
 }
 
